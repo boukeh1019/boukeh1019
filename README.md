@@ -6,7 +6,7 @@
 
 🎓 **Honours Computer Science Student**  
 📍 Bloemfontein, South Africa  
-🎯 **Data Science | Advanced Analytics | Machine Learning**  
+🎯 **Data Science | Artificial Intelligence | Machine Learning**  
 
 ---
 
