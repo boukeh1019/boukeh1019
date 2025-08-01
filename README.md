@@ -14,7 +14,7 @@
 
 I am a **passionate and driven Honours student in Computer Science**, actively seeking opportunities to apply and expand my skills in **data science and advanced analytics**. My academic journey has provided me with a **strong foundation in machine learning, data analysis, and software development**, which I am eager to leverage in a professional setting.  
 
-I am deeply inspired by the future of **agentic AI systems** and have demonstrated resilience and ambition in pursuing opportunities with leading organizations such as Standard Bank’s CIB and PPB divisions. I am committed to advancing my expertise in **AI, intelligent agents, and advanced analytics**, either through employment or a future MSc focused on transformative applications of AI in industries like banking.  
+I am deeply inspired by the future of **agentic AI systems** and have demonstrated resilience and ambition in pursuing opportunities with leading organizations. I am committed to advancing my expertise in **AI, intelligent agents, and advanced analytics**.
 
 ---
 
