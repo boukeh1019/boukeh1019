@@ -1,9 +1,4 @@
 # 👋 Hi, I’m Boke Lets'oara  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Boke-Letsoara&style=flat-square&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/Boke-Letsoara?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/Boke-Letsoara?style=social)  
-
 🎓 **Honours Computer Science Student**  
 📍 Bloemfontein, South Africa  
 🎯 **Data Science | Artificial Intelligence | Machine Learning**  
