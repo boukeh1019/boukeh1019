@@ -43,13 +43,11 @@ My procurement decision-support work spans **specialist agents, deterministic an
 ---
 
 ### 🎓 Honours Research: AI Agent for Board Games  
-- **Description:** Developed an intelligent agent capable of learning and playing complex board games.  
-- **Focus:** Implementing and optimizing **Deep Q-Networks (DQN)** to enable strategic decision-making through **self-play** and **reinforcement learning**, alongside adversarial search (**Minimax with Alpha-Beta pruning**).  
+- **Description:** Conducted AI research on intelligent agents for board games.  
+- **Focus:** Strategy optimization and decision-making.  
 - **Key Contributions:**  
-  - Designed and trained a **deep neural network** using Keras to approximate optimal action-value functions.  
-  - Used **experience replay** and **target networks** to stabilize and improve training efficiency.  
-  - Conducted **performance analysis** to evaluate agent effectiveness and benchmark against baseline models.  
-- **Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+  - Implemented adversarial search algorithms, including **Minimax with Alpha-Beta pruning**.  
+- **Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ---
 
@@ -74,7 +72,7 @@ My procurement decision-support work spans **specialist agents, deterministic an
 
 ### 🔹 Agentic AI & Machine Learning  
 - **Agentic AI:** Multi-Agent Systems, Agent Architecture & Orchestration, Ontology-Driven Reasoning, Human-in-the-Loop Controls, RAG, Structured Outputs, Agentic Observability, Context Engineering  
-- **Machine Learning:** Neural Networks, Reinforcement Learning (**Deep Q-Learning**), Model Evaluation  
+- **Machine Learning:** Neural Networks, Model Evaluation  
 - **Data Analysis:** Data Cleaning, Exploratory Data Analysis, Statistical Modeling  
 
 ### 🔹 Programming & Tools  
@@ -103,7 +101,6 @@ My procurement decision-support work spans **specialist agents, deterministic an
 - 🤖 **Deloitte Fasttrack:** Selected as one of 30 engineers across African regions for Deloitte’s intensive 13-week Fasttrack Agentic AI Engineering Programme.  
 - ⭐ **Team Feedback:** 97% highly favourable and 3% favourable across five completed project snapshots *(Jun – Sep 2026)*, with team leaders citing fast technical learning, ownership of key projects and strong client relationships.  
 - 🧑‍🏫 **Team Learning Series:** Own recurring team learning and knowledge-sharing sessions at Deloitte.  
-- 📚 **Academic Distinction:** Achieved distinction in Honours year for outstanding performance in research and coursework.   
 - 🌱 **STEM Advocacy:** Co-founder of a non-profit organization promoting STEM education through mentoring and tutoring.  
 - 🎯 **Lead, Academic Desk:** Lead a data-driven tutoring and mentorship initiative serving students across multiple faculties, with Python attendance and performance analytics to measure programme impact.  
 - 🎯 **Student Leadership Coach:** Provided individual and group coaching to UCT residence leaders, focusing on goal-setting, performance, and well-being *(2024)*.  
